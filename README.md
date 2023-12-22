@@ -1,5 +1,7 @@
 # 🍀 Seedrwnd
 
+<p align="center"><em>Planting ideas, growing possibilities.</em></p>
+
 ## Project Overview
 
 This project involves analysing a dataset of around 50,000 tweets containing phrases like "startup idea," "start-up idea," or "business idea." The goal is to use machine learning and NLP to:
@@ -22,7 +24,7 @@ This project involves analysing a dataset of around 50,000 tweets containing phr
 - [ ] Evaluate the model (accuracy, precision, recall, F1-score).
 - [ ] Tune the model for better performance.
 
-### Industry Categorization
+### Industry Categorisation
 
 #### Supervised Learning Approach
 
