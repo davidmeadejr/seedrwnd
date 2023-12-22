@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project involves analysing a dataset of 50,000 tweets containing phrases like "startup idea," "start-up idea," or "business idea." The goal is to use machine learning and NLP to:
+This project involves analysing a dataset of around 50,000 tweets containing phrases like "startup idea," "start-up idea," or "business idea." The goal is to use machine learning and NLP to:
 
 1. Identify tweets that specifically suggest a startup or business idea.
 2. Categorise these tweets by industry.
