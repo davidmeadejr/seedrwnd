@@ -38,11 +38,7 @@ This project involves analysing a dataset of around 50,000 posts on X containing
 - [ ] Use Pandas for data manipulation.
 - [ ] Apply NLTK/SpaCy for NLP-related tasks.
 - [ ] Utilise Scikit-learn for machine learning models.
-- [ ] Implement Matplotlib/Seaborn for data visualization.
-
-### Advanced NLP Models
-
-- [ ] (Optional) Explore transformer models like BERT for improved feature extraction and classification.
+- [ ] Implement Matplotlib/Seaborn for data visualisation.
 
 ### Final Steps
 
