@@ -1,6 +1,7 @@
 # 🍀 Seedrwnd
 
-<p align="center"><em>You will get rich by giving society what it wants but does not yet know how to get. At scale - Naval Ravikant</em></p>
+<p align="center"><em>You will get rich by giving society what it wants but does not yet know how to get at scale.</em></p>
+<p align="center"><em>- Naval Ravikant</em></p>
 
 ## Project Overview
 
