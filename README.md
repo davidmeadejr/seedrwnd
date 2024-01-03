@@ -7,9 +7,9 @@
 
 This project involves analysing a dataset of around 50,000 posts on X containing phrases like "startup idea," "start-up idea," or "business idea." The goal is to use machine learning techniques to:
 
-1. Identify posts where users have specifically suggested a startup or business idea that they would like built.
-2. Categorise these ideas by industry.
-3. Display these categorised ideas on a dedicated page.
+1. Discover and Highlight: Extract posts where users have articulated startup or business ideas they envision.
+2. Categorize with Precision: Methodically classify these ideas into distinct industry sectors using NLP algorithms.
+3. Showcase Innovatively: Feature these organized ideas on a specialized page, turning data into a source of inspiration and opportunity discovery.
 
 ## Checklist
 
